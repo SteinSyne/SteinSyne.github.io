@@ -11,7 +11,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-remote_theme: steinsyne/jekyll-theme-hamilton
+#remote_theme: steinsyne/jekyll-theme-hamilton
 
 paginate: 10
 
